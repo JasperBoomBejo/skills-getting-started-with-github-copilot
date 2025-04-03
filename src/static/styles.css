@@ -153,3 +153,23 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participant-info {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f1f8e9;
+  color: #33691e;
+  font-size: 14px;
+}
+
+.participant-info ul {
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: circle;
+}
+
+.participant-info ul li {
+  margin-bottom: 5px;
+}
